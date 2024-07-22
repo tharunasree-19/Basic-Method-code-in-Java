@@ -1,0 +1,11 @@
+public class github{
+    
+    static void practice(){
+        System.out.println("hello github buddie!");
+    }
+    
+    public static void main(String args[]){
+        practice();
+    }
+    
+}
